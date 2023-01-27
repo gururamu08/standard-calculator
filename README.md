@@ -105,7 +105,8 @@ REGISTER NUMBER : 22008475
 ```
 
 ## OUTPUT:
-![OUTPUT](/Screenshot%202023-01-27%20181449.jpg)
+![Screenshot 2023-01-27 181449](https://user-images.githubusercontent.com/118707009/215092142-2a893942-5cd9-481e-9c27-c672d42daf3e.jpg)
+
 
 ## Result:
 The output for calculator is displayed successfully
